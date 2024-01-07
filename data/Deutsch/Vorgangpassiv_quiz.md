@@ -1,11 +1,11 @@
 # Quiz
     
-#Questions:
+# Questions:
 Build the sentences into Vorgangspassiv
     
-1. ** ______ du von Doktor Schneider behandelt?** 
+1. **______ du von Doktor Schneider behandelt?** 
 
-2. ** Amerika ________ 1492 von Kolumbus entdeckt.** 
+2. **Amerika ________ 1492 von Kolumbus entdeckt.** 
 
-3. ** Das Essen _________ uns vom Kellner schnell serviert ____________** 
+3. **Das Essen _________ uns vom Kellner schnell serviert ____________** 
 
