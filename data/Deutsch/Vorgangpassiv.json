@@ -12,6 +12,11 @@
             "q": "Amerika ________ 1492 von Kolumbus entdeckt.",
             "a": "wurde",
             "e": "Passiv Simple Past"
+        },
+        {
+            "q": "Das Essen _________ uns vom Kellner schnell serviert ____________",
+            "a": "ist worden",
+            "e": "Present Perfect"
         }
     ]
 }
