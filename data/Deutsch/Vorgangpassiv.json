@@ -1,0 +1,17 @@
+{
+    "header": {
+        "version": "0"
+    },
+    "questions": [
+        {
+            "q": "______ du von Doktor Schneider behandelt?",
+            "a": "Wirst",
+            "e": "Passiv Present"
+        },
+        {
+            "q": "Amerika ________ 1492 von Kolumbus entdeckt.",
+            "a": "wurde",
+            "e": "Passiv Simple Past"
+        }
+    ]
+}

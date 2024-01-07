@@ -1,0 +1,13 @@
+version:0
+
+#Present
+
+q:______ du von Doktor Schneider behandelt?
+a:Wirst
+e:Passiv Present
+
+#Simple Past
+
+q:Amerika ________ 1492 von Kolumbus entdeckt.
+a:wurde
+e:Passiv Simple Past
