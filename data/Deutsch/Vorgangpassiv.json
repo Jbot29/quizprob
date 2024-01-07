@@ -1,6 +1,7 @@
 {
     "header": {
-        "version": "0"
+        "version": "0",
+        "instructions": "Build the sentences into Vorgangspassiv"
     },
     "questions": [
         {
