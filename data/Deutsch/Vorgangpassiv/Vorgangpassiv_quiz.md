@@ -9,3 +9,5 @@ Build the sentences into Vorgangspassiv.
 
 3. **Das Essen _________ uns vom Kellner schnell serviert ____________** 
 
+4. **_________ der Brief schon abgeschickt _____________** 
+
