@@ -1,7 +1,7 @@
 # Quiz
     
 # Questions:
-Build the sentences into Vorgangspassiv
+Build the sentences into Vorgangspassiv.
     
 1. **______ du von Doktor Schneider behandelt?** 
 
