@@ -10,9 +10,33 @@
             "e": "Passiv Present"
         },
         {
+            "i": "Convert into Vorgangspassiv",
+            "q": "Der Mann \u00f6ffnet das Fenster.",
+            "a": "Das Fenster wird (vom Mann) ge\u00f6ffnet.",
+            "e": "Present"
+        },
+        {
+            "i": "Convert into Vorgangspassiv",
+            "q": "Die Frau liest das Buch.",
+            "a": "Das Buch wird (von der Frau) gelesen.",
+            "e": " Passiv (werden + Partizip 2)"
+        },
+        {
             "q": "Amerika ________ 1492 von Kolumbus entdeckt.",
             "a": "wurde",
             "e": "Passiv Simple Past"
+        },
+        {
+            "i": "Convert into Vorgangspassiv",
+            "q": "Der Mann \u00f6ffnete das Fenster.",
+            "a": "Das Fenster wurde (vom Mann) ge\u00f6ffnet.",
+            "e": "Passiv (wurden + Partizip 2)"
+        },
+        {
+            "i": "Convert into Vorgangspassiv",
+            "q": "Die Frau las das Buch.",
+            "a": "Das Buch wurde (von der Frau) gelesen.",
+            "e": "Passiv (wurden + Partizip 2)"
         },
         {
             "q": "Das Essen _________ uns vom Kellner schnell serviert ____________",
@@ -23,6 +47,48 @@
             "q": "_________ der Brief schon abgeschickt _____________",
             "a": "War worden",
             "e": "Past Perfect"
+        },
+        {
+            "i": "Convert into Vorgangspassiv",
+            "q": "Der Mann hat das Fenster ge\u00f6ffnet.",
+            "a": "Das Fenster ist (vom Mann) ge\u00f6ffnet worden.",
+            "e": "Passiv  (sein + Partizip 2 + worden)"
+        },
+        {
+            "q": "Das Buch ist (von der Frau) gelesen worden.",
+            "a": "Die Frau hat das Buch gelesen.",
+            "e": "Passiv  (sein + Partizip 2 + worden)"
+        },
+        {
+            "q": "Der Mann hatte das Fenster ge\u00f6ffnet.",
+            "a": "Das Fenster war (vom Mann) ge\u00f6ffnet worden."
+        },
+        {
+            "q": "Die Frau hatte das Buch gelesen.",
+            "a": "Das Buch war (von der Frau) gelesen worden."
+        },
+        {
+            "q": "Die Romane ______ von allen Studenten gelesen __________.",
+            "a": "werden werden",
+            "e": "Futre"
+        },
+        {
+            "q": "Der Mann wird das Fenster \u00f6ffnen.",
+            "a": "Das Fenster wird (vom Mann) ge\u00f6ffnet werden."
+        },
+        {
+            "q": "Die Frau wird das Buch lesen.",
+            "a": "Das Buch wird (von der Frau) gelesen werden.",
+            "e": "Passiv (werden + Partizip 2+ werden)"
+        },
+        {
+            "q": "Der Mann wird das Fenster ge\u00f6ffnet haben.",
+            "a": "Das Fenster wird (vom Mann) ge\u00f6ffnet worden sein."
+        },
+        {
+            "q": "Die Frau wird das Buch gelesen haben.",
+            "a": "Das Buch wird (von der Frau) gelesen worden sein.",
+            "e": "Passiv (werden + Partizip 2 + worden + sein)"
         }
     ]
 }

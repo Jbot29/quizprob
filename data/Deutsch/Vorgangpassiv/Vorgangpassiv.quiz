@@ -7,11 +7,33 @@ q:______ du von Doktor Schneider behandelt?
 a:Wirst
 e:Passiv Present
 
+i:Convert into Vorgangspassiv
+q:Der Mann öffnet das Fenster.
+a:Das Fenster wird (vom Mann) geöffnet.
+e:Present
+
+i:Convert into Vorgangspassiv
+q:Die Frau liest das Buch.
+a:Das Buch wird (von der Frau) gelesen.
+e: Passiv (werden + Partizip 2)
+
 #Simple Past
 
 q:Amerika ________ 1492 von Kolumbus entdeckt.
 a:wurde
 e:Passiv Simple Past
+
+#Vorgangspassiv im Präteritum:
+
+i:Convert into Vorgangspassiv
+q:Der Mann öffnete das Fenster.
+a:Das Fenster wurde (vom Mann) geöffnet.
+e:Passiv (wurden + Partizip 2)
+
+i:Convert into Vorgangspassiv
+q:Die Frau las das Buch.
+a:Das Buch wurde (von der Frau) gelesen.
+e:Passiv (wurden + Partizip 2)
 
 #Present Perfect
 
@@ -24,3 +46,46 @@ e:Present Perfect
 q:_________ der Brief schon abgeschickt _____________
 a:War worden
 e:Past Perfect
+
+#Vorgangspassiv im Perfekt:
+
+i:Convert into Vorgangspassiv
+q:Der Mann hat das Fenster geöffnet.
+a:Das Fenster ist (vom Mann) geöffnet worden.
+e:Passiv  (sein + Partizip 2 + worden)
+
+q:Das Buch ist (von der Frau) gelesen worden.
+a:Die Frau hat das Buch gelesen.
+e:Passiv  (sein + Partizip 2 + worden)
+
+#Vorgangspassiv im Plusquamperfekt:
+
+q:Der Mann hatte das Fenster geöffnet.
+a:Das Fenster war (vom Mann) geöffnet worden.
+
+q:Die Frau hatte das Buch gelesen.
+a:Das Buch war (von der Frau) gelesen worden.
+
+#Future
+
+q:Die Romane ______ von allen Studenten gelesen __________.
+a:werden werden
+e:Futre
+
+#Vorgangspassiv im Futur 1:
+
+q:Der Mann wird das Fenster öffnen.
+a:Das Fenster wird (vom Mann) geöffnet werden.
+
+q:Die Frau wird das Buch lesen.
+a:Das Buch wird (von der Frau) gelesen werden.
+e:Passiv (werden + Partizip 2+ werden)
+
+#Vorgangspassiv  im Futur 2:
+
+q:Der Mann wird das Fenster geöffnet haben.
+a:Das Fenster wird (vom Mann) geöffnet worden sein.
+
+q:Die Frau wird das Buch gelesen haben.
+a:Das Buch wird (von der Frau) gelesen worden sein.
+e:Passiv (werden + Partizip 2 + worden + sein)
